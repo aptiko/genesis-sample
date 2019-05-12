@@ -199,3 +199,8 @@ function genesis_sample_comments_gravatar( $args ) {
 	return $args;
 
 }
+
+
+/** Added by A.X.; single post navigation buttons
+ */
+add_action( 'genesis_entry_footer', 'genesis_prev_next_post_nav' );
