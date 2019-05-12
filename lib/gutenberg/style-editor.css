@@ -182,10 +182,8 @@ p.has-background.light-text a:hover {
 .wp-block-pullquote p,
 .wp-block-quote p {
 	font-family: "Source Sans Pro", serif;
-	font-size: 21px !important;
-	font-style: italic;
-	line-height: 1.8;
 	margin-bottom: 42px;
+        margin-left: 24px;
 }
 
 .wp-block-pullquote p,
